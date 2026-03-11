@@ -1,0 +1,30 @@
+1.Understand the difference between block-level and inline elements. Practice examples with <div>, <p> (block) and <span>, <a> (inline).
+
+Ans: Block level Elements:
+     * Block level element always start on a new line.
+     * Block level element take full width of the page.
+     * Block-level example: <div>,<p>
+      
+     Inline Elements:
+     *Inline element do not start on a new line
+     *Inline elements take only required spaces
+     *inline example:<span>,<a> 
+
+
+2.Learn and practice basic tags: headings <h1>–<h6>, paragraph <p>, division <div>, and inline <span>. Create a sample page using them.
+
+Ans:
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <title> Sample Page </title>
+    </head>
+    <body>
+      <h1> Welcome </h2>
+      <p>  This is a Paragraph <p>
+    <div>
+      This is a div block elements.
+    </div>
+    <span> This is an inline elements </span>
+    </body>
+    </html> 
