@@ -9,6 +9,19 @@ Ans: Block level Elements:
      *Inline element do not start on a new line
      *Inline elements take only required spaces
      *inline example:<span>,<a> 
+Example:
+    <!DOCTYPE html>
+<html>
+<head>
+<title>Block and Inline Elements</title>
+</head>
+<body>
+  <div>Welcome to HTML learning</div>
+  <p>This is a paragraph example for block element.</p>
+<span>This is a span inline element.</span>
+<a href="https://www.mywebsite.com">Click here to visit website</a>
+</body>
+</html>
 
 
 2.Learn and practice basic tags: headings <h1>–<h6>, paragraph <p>, division <div>, and inline <span>. Create a sample page using them.
@@ -20,11 +33,16 @@ Ans:
       <title> Sample Page </title>
     </head>
     <body>
-      <h1> Welcome </h2>
+      <h1> Welcome </h1>
+      <h2>About HTML</h2>
+      <h3>HTML Basics</h3>
+      <h4>Learning Tags</h4>
+      <h5>Example Program</h5>
+      <h6>Practice Page</h6>
       <p>  This is a Paragraph <p>
     <div>
       This is a div block elements.
     </div>
     <span> This is an inline elements </span>
     </body>
-    </html> 
+</html> 
